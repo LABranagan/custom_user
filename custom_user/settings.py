@@ -25,7 +25,7 @@ SECRET_KEY = 'nkn996#9e(a*are08wt2ref5%kbcib5l#-5(mn+)3*9wv0%-@3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://customuser.herokuapp.com/']
 # ALLOWED_HOSTS = ['']
 
 
